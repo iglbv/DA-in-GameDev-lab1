@@ -21,6 +21,7 @@
 ## Задание 1
 ### Написать программу Hello World на Python с запуском в Jupiter Notebook.
 Ход работы:
+Установлен дистрибутив "Anaconda", включающий набор популярных свободных библиотек. Изучен инструмент Jupyter Notebook, в нем создан файл с программой на Python с выводом в консоль "Hello World".
 - ![image](https://github.com/iglbv/DA-in-GameDev-lab1/assets/130669110/2c37ab7a-ceb9-4fc0-a0e6-d5501b7bdfee)
 
 
@@ -28,6 +29,7 @@
 ### Написать программу Hello World на C# с запуском на Unity. 
 
 Ход работы:
+Установлен Unity. Настроена синхронизация с Visual Studio Code. Написана программа "Hello World" на C# с запуском на Unity.
 ![image](https://github.com/iglbv/DA-in-GameDev-lab1/assets/130669110/45b04476-40a5-4f23-95ca-71db2c994fcb)
 
 
